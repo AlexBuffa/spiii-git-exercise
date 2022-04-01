@@ -6,3 +6,6 @@ git checkout bug-fix
 [edit FILE.md] (bug-fix)
 git add FILE.md (bug-fix)
 git commit -m "commit 3" (bug-fix)
+[edit FILE.md] (bug-fix)
+git add FILE.md (bug-fix)
+git commit -m "commit 4" (bug-fix)
