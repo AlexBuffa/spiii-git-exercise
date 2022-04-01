@@ -2,3 +2,7 @@ git init
 [edit FILE.md] (master)
 git add FILE.md (master)
 git commit -m "Initial commit" (master)
+git checkout bug-fix
+[edit FILE.md] (bug-fix)
+git add FILE.md (bug-fix)
+git commit -m "commit 3" (bug-fix)
